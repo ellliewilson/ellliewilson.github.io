@@ -12,9 +12,9 @@ Welcome! I'm Ellie Wilson, a 3rd-year PhD Student in Bioengineering at Temple Un
 
 When I'm not in the lab, you can usually find me at a coffee shop searching for the best oat milk latte in Philly. I love to collect house plants, have recently taken up rock climbing, and am a Carolina Basketball fanatic (go heels!). kombucha brewing or hanging out with my cat Menchi.
 
-most recent publication
+check out the RISE lab's most recent publication
 ======
 
-* List item one 
+* Canete, Santiago; Wilson, Elizabeth B.; Jacobs, Daniel A. (2022). ["Ankle Exoskeleton Assistance can Affect Step Regulation during Self-Paced Walking."](https://ieeexplore.ieee.org/abstract/document/9970378) <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i>.
 
 ![Exoskeleton Image](/images/walking_exo_cropped_fullbody.jpg)
