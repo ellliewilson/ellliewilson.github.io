@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ellie Wilson Ph.D. Student Site"
+title                    : "Ellie Wilson | Bioengineering PhD Student"
 title_separator          : "-"
 name                     : &name "Ellie Wilson"
 description              : &description "Ph.D. Student at Temple University"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Ellie Wilson"
-  avatar           : "profile.png"
-  bio              : "Ph.D. student at Temple Univerisity investigating the biomechanical and cognitive processes that drive human-machine collaboration"
+  avatar           : "profilephoto_20230112.jpg"
+  bio              : "Bioengineering Ph.D. student at Temple Univerisity. My research project investigates the biomechanical and cognitive processes that drive human-machine collaboration"
   location         : "Philadelphia, Pennsylvania"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
