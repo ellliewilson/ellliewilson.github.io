@@ -3,8 +3,8 @@ title: "Ankle Exoskeleton Assistance can Affect Step Regulation during Self-Pace
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2022-12-05
+venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9970378'
 citation: 'Canete, Santiago; Wilson, Elizabeth B.; Jacobs, Daniel A. (2022). &quot;Ankle Exoskeleton Assistance can Affect Step Regulation during Self-Paced Walking&quot; <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i>.'
 ---
