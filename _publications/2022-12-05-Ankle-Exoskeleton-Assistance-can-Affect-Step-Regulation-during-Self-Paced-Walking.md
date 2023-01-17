@@ -1,5 +1,5 @@
 ---
-title: "Ankle Exoskeleton Assistance can Affect Step Regulation during Self-Paced Walking"
+title: "TEST Ankle Exoskeleton Assistance can Affect Step Regulation during Self-Paced Walking"
 collection: publications
 permalink: /publication/2022-12-05-Ankle-Exoskeleton-Assistance-can-Affect-Step-Regulation-during-Self-Paced-Walking
 excerpt: 'This paper explores step regulation strategies for individuals first learning to use a lower limb exoskeleton.'
