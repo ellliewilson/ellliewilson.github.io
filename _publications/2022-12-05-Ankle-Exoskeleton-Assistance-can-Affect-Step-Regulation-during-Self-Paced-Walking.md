@@ -2,7 +2,7 @@
 title: "Ankle Exoskeleton Assistance can Affect Step Regulation during Self-Paced Walking"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper explores step regulation strategies for individuals first learning to use a lower limb exoskeleton'
 date: 2022-12-05
 venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9970378'
