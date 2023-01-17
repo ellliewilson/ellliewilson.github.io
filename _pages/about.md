@@ -12,7 +12,7 @@ Welcome! I'm Ellie Wilson, a 3rd-year PhD Student in Bioengineering at Temple Un
 
 My latest project harnesses virtual reality as a rehabilitation tool for treadmill walking. This experiment investigates how virtual environments can promote congruence between perceived internal models of self-motion and self-selected walking speed. Through this work, I aim to establishing a connection between digital representations for locomotion and physical outcomes that may assist individuals with disabilities. 
 
-When I'm not in the lab, you can usually find me at a coffee shop searching for the best oat milk latte in Philly. I love to collect house plants, have recently taken up rock climbing, and am a Carolina Basketball fanatic (go heels!). I can also be found wrapped up in a new [book](https://www.goodreads.com/book/show/13623848-the-song-of-achilles),  brewing kombucha, or hanging out with my cat Menchi.
+When I'm not in the lab, you can usually find me at a coffee shop searching for the best oat milk latte in Philly. I also love to collect house plants, have recently taken up rock climbing, and dabble in at home kombucha brewing.
 
 check out the RISE lab's most recent publication
 ======
