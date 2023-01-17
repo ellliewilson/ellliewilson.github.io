@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biomedical and Health Sciences Engineering and Minor in Neuroscience, University of North Carolina - Chapel Hill, 2020
-* M.S. in Bioengineering, Temple University, 2022
-* Ph.D in Bioengineering, Temple University, 2024 (expected)
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Fall 2017-Summer 2020: Undergraduate Research Assistant
-  * University of North Carolina - Chapel Hill, Dept. of Pharmacology
-  * Research goals: Harnessing murine models to better understand the atheroprotective role of CXCL5
-  * Supervisor: Dr. Jonathan Schisler
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-* Fall 2020 - Present: Graduate Research Fellow
-  * Temple University
-  * Research goals: Uncovering the impacts of lower-limb exoskeletons on gait biomechanics and cognition.
-  * Supervisor: Dr. Daniel Jacobs
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
   
 Skills
 ======
