@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-TEST Welcome! I'm Ellie Wilson, a 3rd-year PhD Student in Bioengineering at Temple University. My research delves into the impacts of lower-limb exoskeletons on gait with a focus on biomechanics and cognition. Currently, I am working on my pre-dissertation project with Dr. Daniel Jacobs in the [Robotics in Interdisciplinary Science and Engineering (RISE) Lab](https://sites.temple.edu/rise/). Prior to starting my graduate career, I received my B.S. in Biomedical and Health Sciences Engineering from the University of North Carolina - Chapel Hill in 2016.
+Welcome! I'm Ellie Wilson, a 3rd-year PhD Student in Bioengineering at Temple University. My research delves into the impacts of lower-limb exoskeletons on gait with a focus on biomechanics and cognition. Currently, I am working on my pre-dissertation project with Dr. Daniel Jacobs in the [Robotics in Interdisciplinary Science and Engineering (RISE) Lab](https://sites.temple.edu/rise/). Prior to starting my graduate career, I received my B.S. in Biomedical and Health Sciences Engineering from the University of North Carolina - Chapel Hill in 2016.
 
 My latest project harnesses virtual reality as a rehabilitation tool for treadmill walking. This experiment investigates how virtual environments can promote congruence between perceived internal models of self-motion and self-selected walking speed. Through this work, I aim to establishing a connection between digital representations for locomotion and physical outcomes that may assist individuals with disabilities. 
 
