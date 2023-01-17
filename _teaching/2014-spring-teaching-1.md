@@ -1,15 +1,20 @@
 ---
-title: "Undergraduate Teaching Assistant"
+title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/undergrad-teaching-assistant
-venue: "The University of North Carolina - Chapel Hill"
-date: 2021-2023
-location: "Chapel Hill, North Carolina"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-As an undergraduate senior, I led a laboratory section for junior level engineering students taking an introductory Synthetic Biology course.
+This is a description of a teaching experience. You can use markdown like any other post.
 
-Spring 2020 - Deparment of Biomedical and Health Sciences Engineering
+Heading 1
 ======
-* BMME 420: Introduction to Synthetic Biology
+
+Heading 2
+======
+
+Heading 3
+======

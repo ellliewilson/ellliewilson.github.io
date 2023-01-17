@@ -1,29 +1,20 @@
 ---
-title: "Graduate Teaching Assistant"
+title: "Teaching experience 2"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/grad-teaching-assistant
-venue: "Temple University, College of Engineering"
-date: 2021-2023
-location: "Philadelphia, Pennsylvania"
+type: "Workshop"
+permalink: /teaching/2015-spring-teaching-1
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
 ---
 
-As a graduate TA, i have led laboratory sections, delivered lectures, and assisted with course administration in both the Bioengineering and Mechanical Departments.
+This is a description of a teaching experience. You can use markdown like any other post.
 
-Fall 2021 - Deparment of Bioengineering
+Heading 1
 ======
-* BIOE 2001: Frontiers in Bioengineering
 
-Spring 2022 - Deparment of Bioengineering
+Heading 2
 ======
-* BIOE 4101: Biomechanics Lab
 
-Fall 2022 - Department of Mechanical Engineering
+Heading 3
 ======
-* ENGR 2332: Engineering Dynamics
-* MEE 2305: Instrumentation and Data Acquisition Lab
-
-Spring 2023 - Deparment of Mechanical Engineering
-======
-* ENGR 1102: Introduction to Engineering Problem Solving
-*  2305: Instrumentation and Data Acquisition Lab
