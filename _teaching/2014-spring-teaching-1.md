@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Undergraduate Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "UNC Chapel Hill, Department of Biomedical Engineering"
+date: 2020-01-01
+location: "Chapel Hill, NC"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course History for my Teaching Assistant experience as an undergraduate.
 
-Heading 1
+Spring 2020
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+BMME 420: Introduction to Synthetic Biology
