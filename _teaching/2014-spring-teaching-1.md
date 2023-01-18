@@ -2,13 +2,13 @@
 title: "Undergraduate Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/undergrad-teaching-assistant
 venue: "UNC Chapel Hill, Department of Biomedical Engineering"
 date: 2020-01-01
 location: "Chapel Hill, NC"
 ---
 
-Course History for my Teaching Assistant experience as an undergraduate.
+Course history for my teaching assistant experience as an undergraduate.
 
 Spring 2020
 ======
